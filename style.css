@@ -1,0 +1,37 @@
+body{
+    padding: 100px;
+   
+}
+.submit{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: yellowgreen;
+    width: 50%;
+    border-radius: 20px;
+   
+}
+#transiction{
+    display: none;
+    
+}
+.deposite{
+    background-color: yellowgreen;
+    border-radius: 5px;
+    text-transform: uppercase;
+    width: 50%;
+    
+}
+.withdraw{
+    background-color: tomato;
+    border-radius: 5px;
+    text-transform: uppercase;
+    width: 50%;
+
+}
+.total{
+    background-color: green;
+    border-radius: 5px;
+    text-transform: uppercase;
+    width: 50%;
+    
+}
